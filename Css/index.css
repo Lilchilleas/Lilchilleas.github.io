@@ -1,0 +1,15 @@
+ 
+body {
+    background-image: url("aa.jpg");
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 98vh;
+    width: 100%;
+  }
+.divs{
+    margin: auto; 
+    width: 60%;
+    text-align: center;
+}
+ 
